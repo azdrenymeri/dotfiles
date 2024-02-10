@@ -1,4 +1,4 @@
-theme = "Rosé Pine Moon"
+theme = "default"
 
 [editor]
 line-number = "relative"
